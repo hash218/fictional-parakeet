@@ -11,6 +11,8 @@ main{
     background-color: hsl(0, 0%, 100%);
 
     height: 635px;
+    width: 335px;
+    margin: auto;
     display: flex;
     flex-direction: column;
 
